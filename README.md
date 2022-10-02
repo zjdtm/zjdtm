@@ -8,7 +8,8 @@ SKILL
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=green"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=green"/>
 <img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=Node.js&logoColor=green"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=green"/>
+<img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=#61DAFB"/>
+
 
 <!--
 **zjdtm/zjdtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
