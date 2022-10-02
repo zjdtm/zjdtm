@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![study](https://user-images.githubusercontent.com/35757620/193456902-4022269b-6871-45b9-b69c-a27995853cb3.gif)
+
+SKILL
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=green"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=green"/>
+<img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=Node.js&logoColor=green"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=green"/>
+
 <!--
 **zjdtm/zjdtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
