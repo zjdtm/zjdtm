@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=zjdtm&show_icons=true)
+![zjdtm GitHub stats](https://github-readme-stats.vercel.app/api?username=zjdtm&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjdtm&layout=compact)](https://github.com/zjdtm/github-readme-stats)  
 
 </div>
 <!--
