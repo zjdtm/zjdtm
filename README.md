@@ -9,12 +9,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=green"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=green"/>
-<img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=Node.js&logoColor=green"/>
-<img src="https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=#61DAFB"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-
-
 
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=zjdtm&show_icons=true)
